@@ -1,3 +1,4 @@
+## a software to test if sampling schemes (given fair sampling per pop) affects p-values
 ## we have two populations the first contains 10000 individuals and the second 100000.
 p1 <- 0.2
 p2 <- 0.2
